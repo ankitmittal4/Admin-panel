@@ -2,5 +2,14 @@
     flex: 3;
     -webkit-box-shadow: -1px 5px 12px -3px rgba(107,107,107,1);
     -moz-box-shadow: -1px 5px 12px -3px rgba(107,107,107,1);
-    box-shadow: -1px 5px 12px -3px rgba(107,107,107,1);    
+    box-shadow: -1px 5px 12px -3px rgba(107,107,107,1);
+    padding: 15px;
+    color: gray; 
+    
+    .title{
+        margin-bottom: 20px;
+    }
+    .chartGrid{
+        stroke: rgb(242, 217, 217);
+    }
 }
