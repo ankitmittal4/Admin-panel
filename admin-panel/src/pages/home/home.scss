@@ -5,4 +5,13 @@
         // background-color: rgb(139, 107, 107);
         flex: 5.5;
     }
+
+    .widgets, .charts{
+        display: flex;
+        padding: 20px;
+        gap: 20px;
+    }
+    .charts{
+        padding: 5px 20px;
+    }
 }
